@@ -7,7 +7,16 @@ Welcome to my tech adventure hub! Here, you'll find an array of projects I've em
 
   - **Random Advices Generator:** Unearth a trove of wisdom with this generator that bestows nuggets of advice to enlighten your path. Harness its insights and conquer challenges with newfound clarity. [GitHub Repo](https://github.com/yourusername/random-advices-generator) | [Live Demo](https://random-advicegen.vercel.app/)
   - **Personal Web/Blog:** Step into my digital sanctuary featuring a home base, projects showcase, services overview, engaging blog posts, and a window into my professional journey through my CV. [GitHub Repo](https://github.com/nikenhpsr/my-web.git) | [Live Site](https://nikenhpsr.site/)
-  - **Feastival - Event Discovery App:** Your event discovery and tracking companion! Discover, track, and relish events customized to your passions. Unleash the magic of celebration with FEASTIVAL - your gateway to unforgettable experiences! 🌟🥳 [GitHub Repo](https://github.com/feastival) | [Live Site](https://feastival.fun)
+- **Feastival - Event Discovery App:** Your event discovery and tracking companion! Discover, track, and relish events customized to your passions. Unleash the magic of celebration with FEASTIVAL - your gateway to unforgettable experiences! 🌟🥳
+
+  Feastival brings you the following features:
+  - **Personalized Event Discovery:** Discover a wide range of events tailored to your interests and preferences.
+  - **Location-Based Tracking:** Track events from your preferred locations, ensuring you never miss out on local happenings.
+  - **Secure User Profiles:** Enjoy a personalized experience with authentication and authorization features.
+  - **Effortless Event Management:** Use CRUD operations to seamlessly create, read, update, and delete events from your collection.
+
+  Explore Feastival on [GitHub](https://github.com/feastival) and [Live Site](https://feastival.fun)!
+
 </details>
 
 <details>
